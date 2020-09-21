@@ -3,6 +3,9 @@
 @import "Main.css";
 @import "./Register.css";
 @import "./Login.css";
+@import "./Gallery.css";
+@import "./AroundMarker.css";
+@import "./Home.css";
 
 .App {
   text-align: center;
